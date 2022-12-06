@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Catalog xmlns="http://www.tibco.com/schemas/2.ParseRenderXML/Resources/Schemas/Models/Catalog">
+<Course  xmlns="http://www.tibco.com/schemas/2.ParseRenderXML/Resources/Schemas/Models/Course">
+     <id>1</id>
+     <author>E.Balaguruswamy</author>
+     <title>Code With Vikki</title>
+     <genre>Programming</genre>
+     <price>500.0</price>
+     <publishDate>2022-10-12</publishDate>
+    </Course>
+    <Course xmlns="http://www.tibco.com/schemas/2.ParseRenderXML/Resources/Schemas/Models/Course">
+     <id>2</id>
+     <author>E.Bala</author>
+     <title>Code With rahul</title>
+     <genre>Programming</genre>
+     <price>600.0</price>
+     <publishDate>2022-08-10</publishDate>
+    </Course>
+</Catalog>
